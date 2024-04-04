@@ -4,14 +4,14 @@
 	background-color:#f5f5f5;
 }
 
-p{
+#Text{
     height:80px;
 	width:600px;
 	background-color:white;
 	padding:15px;
 }
 
-p,i{
+#Author{
 	text-align:right;
 	padding-top:50px;
 }
