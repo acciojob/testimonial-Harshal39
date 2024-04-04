@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+#main-container{
+	padding:50px;
+	background-color:#f5f5f5;
+}
+
+p{
+    height:80px;
+	width:600px;
+	background-color:white;
+	padding:15px;
+}
+
+p,i{
+	text-align:right;
+	padding-top:50px;
+}
